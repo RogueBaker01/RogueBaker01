@@ -48,28 +48,15 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RogueBaker01&show_icons=true&theme=radium&hide_border=true" alt="Bernardo's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RogueBaker01&theme=radium&hide_border=true" alt="Bernardo's GitHub Streak" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bernardo-nolasco-952b462ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/RogueBaker01" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://orcid.org/0009-0009-1507-7530" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/bernardo-nolasco-952b462ba)
+
+- [ORCID](https://orcid.org/0009-0009-1507-7530)
+
+- [X / Twitter](https://twitter.com/RogueBaker01)
+
+---
 
 <p align="center">
   Thanks for stopping by! Let's build something awesome.
