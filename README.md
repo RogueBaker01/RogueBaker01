@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Bernardo 👋</h1>
+<h1 align="center">Hi there! I'm Bernardo</h1>
 
 <p align="center">
   Software Engineering student at the <strong>Autonomous University of Querétaro (UAQ)</strong><br>
@@ -40,7 +40,7 @@
 
 - 🚀 **Task Key** A parental control and gamification mobile application built with **React Native** and powered by a robust backend deployed on **Azure**.
   
-- 🦈 **Sharks from Space (NASA Space Apps Challenge 2025)** Developed a mathematical framework and predictive model to analyze marine predator habitats.
+- 🦈 **[Sharks from Space (NASA Space Apps Challenge 2025)](https://github.com/RogueBaker01/BlueSentinel)** Developed a mathematical framework and predictive model to analyze marine predator habitats.
 
 - 🎥 **[expert-pancake](https://github.com/RogueBaker01/expert-pancake)** Motion segmentation in video using clustering algorithms (DBSCAN and K-Means). *Presented as "Segmentation of motion analysis via clustering" at the UAQ Science Summer 2024.*
 
