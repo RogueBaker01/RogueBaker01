@@ -2,7 +2,7 @@
 
 <p align="center">
   Software Engineering student at the <strong>Autonomous University of Querétaro (UAQ)</strong><br>
-  Passionate about Artificial Intelligence, Backend Development, and Cloud Computing 🚀
+  Passionate about Artificial Intelligence, Backend Development, and Cloud Computing.
 </p>
 
 ---
