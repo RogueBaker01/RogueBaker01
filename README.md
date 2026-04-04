@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🎓 Currently studying Software Engineering.
 - ☁️ Training to become an **AWS Cloud Club Captain** for my university and preparing for the AWS Cloud Practitioner certification.
@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 Technologies & Tools
+### Technologies & Tools
 
 **Machine Learning & Data Science**<br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -36,28 +36,22 @@
 
 ---
 
-### 📂 Featured Projects & Research
+### Featured Projects & Research
 
-- 🚀 **Task Key** A parental control and gamification mobile application built with **React Native** and powered by a robust backend deployed on **Azure**.
+- **[Task Key](https://github.com/RogueBaker01/TaskKey-Back1)** A parental control and gamification mobile application built with **React Native** and powered by a robust backend deployed on **Azure**.
   
-- 🦈 **[Sharks from Space (NASA Space Apps Challenge 2025)](https://github.com/RogueBaker01/BlueSentinel)** Developed a mathematical framework and predictive model to analyze marine predator habitats.
+- **[Sharks from Space (NASA Space Apps Challenge 2025)](https://github.com/RogueBaker01/BlueSentinel)** Developed a mathematical framework and predictive model to analyze marine predator habitats.
 
-- 🎥 **[expert-pancake](https://github.com/RogueBaker01/expert-pancake)** Motion segmentation in video using clustering algorithms (DBSCAN and K-Means). *Presented as "Segmentation of motion analysis via clustering" at the UAQ Science Summer 2024.*
+- **[expert-pancake](https://github.com/RogueBaker01/expert-pancake)** Motion segmentation in video using clustering algorithms (DBSCAN and K-Means). *Presented as "Segmentation of motion analysis via clustering" at the UAQ Science Summer 2024.*
 
-- 🚗 **Autonomous Vehicle Systems** Developing autonomy algorithms utilizing simulated environments for self-driving vehicles.
+- **Autonomous Vehicle Systems** Developing autonomy algorithms utilizing simulated environments for self-driving vehicles.
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/bernardo-nolasco-952b462ba)
+- [LinkedIn](https://www.linkedin.com/in/bernardonolasco)
 
 - [ORCID](https://orcid.org/0009-0009-1507-7530)
 
-- [X / Twitter](https://twitter.com/RogueBaker01)
-
 ---
-
-<p align="center">
-  Thanks for stopping by! Let's build something awesome.
-</p>
