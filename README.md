@@ -2,7 +2,7 @@
 
 <p align="center">
   Software Engineering student at the <strong>Autonomous University of Querétaro (UAQ)</strong><br>
-  Building at the intersection of Computer Vision, Backend Engineering, and Edge AI.
+  Building at the intersection of Computer Vision, Backend Engineering, and Edge Computing.
 </p>
 
 <p align="center">
