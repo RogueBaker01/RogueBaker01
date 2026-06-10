@@ -59,7 +59,7 @@
   Predictive model and mathematical framework for analyzing marine predator habitats using satellite oceanographic data.
 
 - **[Motion Segmentation via Clustering](https://github.com/RogueBaker01/expert-pancake)**  
-  Video motion segmentation using **DBSCAN** and **K-Means** clustering. Presented at UAQ Science Summer 2024 and published in the *TeCEO* journal — [doi:10.56913/teceo.6.12.119-128](https://doi.org/10.56913/teceo.6.12.119-128).
+  Video motion segmentation using **DBSCAN** and **K-Means** clustering. Presented at UAQ Science Summer 2024 and published in the *TeCEO* journal — [doi:10.56913/teceo.6.12.119-128](https://teceo.slp.tecnm.mx/index.php/teceo/article/view/143).
 
 ---
 
