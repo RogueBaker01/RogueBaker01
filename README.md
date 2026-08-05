@@ -47,7 +47,7 @@
 ### Featured Projects
 
 - **[IRIS — Real-Time Visual Assistance System](https://github.com/RogueBaker01/fuzzy-enigma)**  
-  Visual aid for the visually impaired: iPhone 12 Mini as a chest-mounted camera streaming to a **YOLOv8 + MiDaS** inference pipeline (CUDA FP16), achieving 17–25 FPS with pre-generated audio alerts. Built for **Hackathon Troyano 2026**.
+  Visual aid for the visually impaired: Chest-mounted camera streaming to a **YOLOv8 + MiDaS** inference pipeline (CUDA FP16), achieving 17–25 FPS with pre-generated audio alerts. Built for **Hackathon Troyano 2026**.
 
 - **[Task Key](https://github.com/RogueBaker01/TaskKey-Back1)**  
   Parental control and gamification app with a **FastAPI + PostgreSQL** backend deployed on **Azure Web Apps** and a **React Native** mobile frontend.
