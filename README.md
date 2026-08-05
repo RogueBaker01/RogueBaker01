@@ -46,9 +46,6 @@
 
 ### Featured Projects
 
-- **[F1 Race Visualizer](https://github.com/RogueBaker01)** *(In progress)*  
-  Real-time F1 telemetry and race data visualization platform built with **FastAPI**, **PostgreSQL**, **WebSockets**, and an SVG frontend powered by the FastF1 API. Includes a lap telemetry comparator and speed heatmap.
-
 - **[IRIS — Real-Time Visual Assistance System](https://github.com/RogueBaker01/fuzzy-enigma)**  
   Visual aid for the visually impaired: iPhone 12 Mini as a chest-mounted camera streaming to a **YOLOv8 + MiDaS** inference pipeline (CUDA FP16), achieving 17–25 FPS with pre-generated audio alerts. Built for **Hackathon Troyano 2026**.
 
